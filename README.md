@@ -1,1 +1,1 @@
-# How-To-Guides
+This will be my main repository for all step-by-step how-to-guides. These documents are free for anyone to use. The main purpose for these documents are for my class students to have an easy to follow guide when working on projects.
